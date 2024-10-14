@@ -16,3 +16,6 @@ Used NumPy and Pandas to clean, model, and join different datasets. Utilized Mat
 
 ## Insights Gained:
 
+
+<img width="1262" alt="Screenshot 2024-10-14 at 3 03 53 PM" src="https://github.com/user-attachments/assets/bfa20488-36f1-4d9b-b6c4-b3eb19117ae1">
+
