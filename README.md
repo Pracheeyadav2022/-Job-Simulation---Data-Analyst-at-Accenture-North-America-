@@ -1,5 +1,10 @@
-# Job-Simulation - Data-Analyst-at-Accenture-North-America
- Executed comprehensive data cleaning, modeling, and analysis of seven datasets, revealing actionable insights into
-content trends to guide strategic decision-making.
-– Designed and delivered a compelling PowerPoint presentation and video to effectively communicate key insights to
-both clients and internal stakeholders.
+# Data Analysis and Visualization for Social Media Insights 
+ This project involved tasks such as cleaning, modeling, and analyzing seven datasets to identify key content trends that would inform strategic decision-making. A PowerPoint presentation was prepared to effectively communicate these insights to the client and internal stakeholders.
+
+## Description
+Used NumPy and Pandas to clean, model, and join different datasets. Utilized Matplotlib and Seaborn to visualize the data and uncover key insights, including:
+
+* Total number of different content categories
+* Top 5 categories based on reaction counts
+* Breakdown of reactions for the top categories
+* Monthly trends in user activity
