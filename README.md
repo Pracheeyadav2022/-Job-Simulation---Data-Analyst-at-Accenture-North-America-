@@ -3,6 +3,7 @@
 
 ## ERD of the Dataset:
 
+<img width="1049" alt="Screenshot 2024-10-14 at 2 49 27 PM" src="https://github.com/user-attachments/assets/796807af-2372-4ba0-8c40-569d736407d9">
 
 
 ## Description
@@ -12,3 +13,6 @@ Used NumPy and Pandas to clean, model, and join different datasets. Utilized Mat
 * Top 5 categories based on reaction counts
 * Breakdown of reactions for the top categories
 * Monthly trends in user activity
+
+## Insights Gained:
+
