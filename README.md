@@ -1,6 +1,10 @@
 # Data Analysis and Visualization for Social Media Insights 
  This project involved tasks such as cleaning, modeling, and analyzing three datasets to identify key content trends that would inform strategic decision-making. A PowerPoint presentation was prepared to effectively communicate these insights to the client and internal stakeholders.
 
+## ERD of the Dataset:
+
+
+
 ## Description
 Used NumPy and Pandas to clean, model, and join different datasets. Utilized Matplotlib and Seaborn to visualize the data and uncover key insights, including:
 
